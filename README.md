@@ -1,1 +1,3 @@
-# internshipprojectIBM01
+## 📖 Project Description
+
+The Library AI Agent is an intelligent assistant designed to enhance the way students interact with academic library systems. It leverages natural language processing to understand user queries and recommends books that align with a student's syllabus, academic level, and interests. Built on the IBM Cloud platform using services like IBM Cloudant and IBM Watson NLP, the agent can check real-time book availability, manage reservations or waitlists, and provide personalized suggestions. By streamlining the search process and enabling smarter access to resources, the system promotes efficient learning and improves student engagement with library content.
